@@ -13,9 +13,9 @@ Glosövning är ett enkelt program som låter användaren öva på översättnin
 
 1. Starta programmet genom att köra huvudfilen (t.ex. `glosovning.py`).
 2. Välj det språk du vill öva på genom att ange det som instrueras.
-3. Ange filnamnet (t.ex. `glos_eng.txt`, `glos_tysk.txt`) som innehåller glosorna för det valda språket.
+3. Ange språk (Engelska, E, eng / Tyska, T, tys / Franska, F, fra).
 4. Följ anvisningarna på skärmen för att öva på översättningarna. Ange översättningen för varje ord.
-5. Programmet ger feedback och räknar resultatet. Du kan avsluta när som helst.
+5. Programmet ger feedback och räknar resultatet. Du kan avsluta när som helst genom att skriva "Q".
 
 ## Exempelfiler
 
@@ -36,5 +36,3 @@ Programmet har inbyggd felhantering för ogiltig input. Om användaren anger ogi
 Det här projektet är licensierat under [MIT-licensen](LICENSE).
 
 ---
-
-Vi hoppas att du kommer att ha nytta av "Glosövning" för att förbättra dina språkkunskaper. Lycka till med dina övningar!
