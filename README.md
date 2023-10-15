@@ -2,18 +2,7 @@
 
 ![Repo Banner](banner.png)
 
-Det här är mitt personliga GitHub-repo där jag samlar och delar Python-script som jag har utvecklat under min pågående utbildning och på min fritid. I den här översikten finner du några av de projekt och script jag har inkluderat.
-
-## Översikt över Script
-
-### Script 1: [Glosövning](länk till script 1)
-Öva på gloser direkt från din terminal.
-
-### Script 2: [Namn på Script 2](länk till script 2)
-Kort beskrivning av vad scriptet gör och dess syfte.
-
-### Script 3: [Namn på Script 3](länk till script 3)
-Kort beskrivning av vad scriptet gör och dess syfte.
+Det här är mitt personliga GitHub-repo där jag samlar och delar Python-script som jag har utvecklat under min pågående utbildning och på min fritid.
 
 ## Kom igång
 
