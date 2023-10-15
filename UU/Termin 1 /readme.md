@@ -2,7 +2,7 @@
 
 ## Översikt
 
-Denna mapp är avsedd för Termin 1 under min pågående utbildning och innehåller Python-skript som jag har utvecklat i olika kurser och projekt under den första terminen.r.
+Denna mapp är avsedd för Termin 1 under min pågående utbildning och innehåller Python-skript som jag har utvecklat i olika kurser och projekt under den första terminen.
 
 ## Innehåll
 
