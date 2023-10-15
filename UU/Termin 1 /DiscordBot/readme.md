@@ -1,5 +1,3 @@
-Självklart, här är en README för den kod du har tillhandahållit:
-
 # Musikbot med Discord.py
 
 Detta är en Discord-bot skriven i Python som används för att spela musik i röstkanaler. Den är byggd med hjälp av biblioteket Discord.py och använder youtube-dl för att söka och köa musik från olika onlinesidor. Det är en mångsidig och enkel att använda musikbot som du kan bjuda in till din server för att njuta av dina favoritlåtar med vänner.
