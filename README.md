@@ -14,6 +14,6 @@ För att använda eller testa något av scripten, följ dessa enkla steg:
 
 ## Bidra
 
-Om du är intresserad av att bidra eller förbättra något av scripten, välkomnar jag ditt engagemang. Du kan kontakta mig eller skapa en "pull request" för eventuella ändringar, buggfixar eller nya idéer.
+Om du är intresserad av att bidra eller förbättra något av scripten, skapa en "pull request" för eventuella ändringar, buggfixar eller nya idéer.
 
 
