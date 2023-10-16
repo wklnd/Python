@@ -1,3 +1,9 @@
+# Author: Oscar Wiklund Jonsson
+# Date: 15/10 - 2023
+# Uppgiften är att ta emot en inmatning från användaren i form av en mening. 
+# Därefter räkna hur många gånger en specifik bokstav förekommer i meningen 
+# samt ange indexplatsen för första förekomsten av den bokstaven.
+
 # Läs in en mening från användaren
 sentence = input("Skriv in en mening: ")
 
