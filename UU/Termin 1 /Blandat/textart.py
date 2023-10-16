@@ -9,5 +9,5 @@ Fonts kan man bland annat hitta i denna lista: http://www.figlet.org/fontdb.cgi
 
 import pyfiglet
 string = input("Enter the text: ")
-text = pyfiglet.figlet_format(string, font="ticks")
+text = pyfiglet.figlet_format(string, font="wavy")
 print(text)

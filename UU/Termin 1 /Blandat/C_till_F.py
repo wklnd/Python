@@ -8,7 +8,7 @@ För att omvandla från Celcius till Fahrenheit, Multiplicera med 9, dividera me
 celcius = float(input("Ange temperaturen i Celsius: "))
 
 # Omvandla Celsius till Fahrenheit
-fahrenheit = (celcius * 9/5) + 32
+fahrenheit = (celcius * 9)/5 + 32
 
 # Visa resultatet
 print(f"{celcius}°C motsvarar {fahrenheit}°F")
