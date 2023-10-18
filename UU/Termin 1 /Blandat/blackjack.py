@@ -70,5 +70,9 @@ def play_game():
     else:
         print("It's a tie!")
         
-
-play_game()
+while True:
+    continue_playing = input("Do you want to play a game of blackjack? ")
+    if continue_playing.lower() == "y" or "yes": 
+        play_game()
+    else:
+        break
