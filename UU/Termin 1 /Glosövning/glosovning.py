@@ -20,8 +20,9 @@ class VocabularyGame:
                     swedish, translation = line.strip().split(",")
                     vocabulary[swedish] = translation
         except FileNotFoundError:
-            print("Kunde inte hitta filen.")
+            print("Kunde inte hitta filen. # Enhance File Reading Error Handling for Improved Exception Management")
         return vocabulary
+        
 
     def start(self):
         if not self.vocabulary:
