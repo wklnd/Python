@@ -8,7 +8,7 @@ Det här är mitt personliga GitHub-repo där jag samlar och delar Python-script
 
 För att använda eller testa något av scripten, följ dessa enkla steg:
 
-1. Klona detta repo till din lokala maskin: `git clone länk-till-ditt-repo.git`
+1. Klona detta repo till din lokala maskin.
 2. Navigera till den specifika mappen för det script du är intresserad av.
 3. Följ anvisningarna i README-filen i den mappen för att köra scriptet.
 
